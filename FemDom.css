@@ -1,0 +1,83 @@
+body{
+	width: 100%;
+	margin:0;
+	background-image: url(BKGPattern.png);
+}
+
+#head{
+	background-color: pink;
+}
+
+#title{
+	color: hotpink;
+	font-size: 15vw;
+	font-family: Vivaldi;
+	padding: 0;
+	margin: 0;
+}
+
+h3:hover{
+	font-size: 30px;
+	color: hotpink;
+	background-color: white;
+}
+
+h3{
+	color: white;
+	font-family: sans-serif;
+	font-size: 18px;
+	text-align: center;
+	margin-bottom: 0;
+	font-family: Base9;
+}
+
+.vernavbar{
+	float: right;
+	width: 50px;
+	height: 200px;
+	background-color: #ff6bbc;
+
+}
+
+li:hover{
+	background-color: hotpink;
+	font-weight: bold;
+	color: white;
+}
+
+a{
+	text-decoration: none !important;
+	color: white;
+}
+
+li{
+	display: inline-block;
+	width: 23%;
+	color: white;
+	font-size: 24px;
+	background-color: pink;
+	text-align: center;
+	padding: 5px;
+	margin:0 auto;
+	border: 2px solid hotpink;
+
+}
+
+ul{
+	width: 100%;
+	font-family: sans-serif;
+	padding-left: 0;
+	margin-left: 0;
+	margin-right: 0;
+	padding-right: 0;
+	margin-top: 0;
+}
+
+#navbar{
+	margin: 0;
+	align-content: center;
+}
+
+#mission{
+	background-color: white;
+}
